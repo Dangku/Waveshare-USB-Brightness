@@ -1,5 +1,5 @@
 # download tools
-$ git clone https://github.com/waveshare/Waveshare-USB-Brightness
+$ git clone https://github.com/Dangku/Waveshare-USB-Brightness
 $ cd Waveshare-USB-Brightness
 
 # desktop distribution install
